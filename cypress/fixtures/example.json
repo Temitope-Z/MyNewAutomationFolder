@@ -5,8 +5,11 @@
     "body": "Fixtures are a great way to mock data for responses to routes",
     "username":"Temisofine",
     "password":"Temisofine2",
-    "invalidUsername": "Aybamz"
-  
+    "invalidUsername": "Aybamz",
+    "contactemail": "Temitopeoduntan2@gmail.com",
+    "contactname":"Temisofine",
+    "message":"Thank you Demoblaze"
+
   
   }
   

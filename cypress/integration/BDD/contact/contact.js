@@ -34,7 +34,7 @@ beforeEach( function(){
     })
 
     When ('I click the send message button', function(){
-        cy.get("button[onclick='send()']").click({forcetrue})
+        cy.get("button[onclick='send()']").click()
         cy.wait(2000)
     })   
     Then ('I validate Contact button is working', function(){
